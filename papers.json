@@ -1,0 +1,532 @@
+{
+  "A_New_Hope_for_Obscured_AGN_The_PRIMA-NewAthena_Alliance.pdf": [
+    "Luigi Barchiesi",
+    "F. J. Carrera",
+    "C. Vignali",
+    "F. Pozzi",
+    "L. Marchetti",
+    "C. Gruppioni",
+    "I. Delvecchio",
+    "L. Bisigello",
+    "F. Calura",
+    "J. Aird",
+    "M. Vaccari"
+  ],
+  "EventFly_Event_Camera_Perception_from_Ground_to_the_Sky.pdf": [
+    "Lingdong Kong",
+    "Dongyue Lu",
+    "Xiang Xu",
+    "Lai Xing Ng",
+    "Wei Tsang Ooi",
+    "Benoit R. Cottereau"
+  ],
+  "CoLLM_A_Large_Language_Model_for_Composed_Image_Retrieval.pdf": [
+    "Chuong Huynh",
+    "Jinyu Yang",
+    "Ashish Tawari",
+    "Mubarak Shah",
+    "Son Tran",
+    "Raffay Hamid",
+    "Trishul Chilimbi",
+    "Abhinav Shrivastava"
+  ],
+  "Scaling_Vision_Pre-Training_to_4K_Resolution.pdf": [
+    "Baifeng Shi",
+    "Boyi Li",
+    "Han Cai",
+    "Yao Lu",
+    "Sifei Liu",
+    "Marco Pavone",
+    "Jan Kautz",
+    "Song Han",
+    "Trevor Darrell",
+    "Pavlo Molchanov",
+    "Hongxu Yin"
+  ],
+  "Dynamics_of_Structured_Complex-Valued_Hopfield_Neural_Networks.pdf": [
+    "Rama Murthy Garimella",
+    "Marcos Eduardo Valle",
+    "Guilherme Vieira",
+    "Anil Rayala",
+    "Dileep Munugoti"
+  ],
+  "Extensions_of_regret-minimization_algorithm_for_optimal_design.pdf": [
+    "YOUGUANG CHEN",
+    "GEORGE BIROS"
+  ],
+  "GENIUS_A_Generative_Framework_for_Universal_Multimodal_Search.pdf": [
+    "Sungyeon Kim",
+    "Xinliang Zhu",
+    "Xiaofan Lin",
+    "Muhammet Bastan",
+    "Douglas Gray",
+    "Suha Kwak"
+  ],
+  "Attention_IoU_Examining_Biases_in_CelebA_using_Attention_Maps.pdf": [
+    "Aaron Serianni",
+    "Tyler Zhu",
+    "Olga Russakovsky",
+    "Vikram V. Ramaswamy"
+  ],
+  "Guidelines_For_The_Choice_Of_The_Baseline_in_XAI_Attribution_Methods.pdf": [
+    "Cristian Morasso",
+    "Giorgio Dolci",
+    "Ilaria Boscolo Galazzo",
+    "Sergey M. Plis",
+    "Gloria Menegaz"
+  ],
+  "PAVE_Patching_and_Adapting_Video_Large_Language_Models.pdf": [
+    "Zhuoming Liu",
+    "Yiquan Li",
+    "Khoi Duc Nguyen",
+    "Yiwu Zhong",
+    "Yin Li"
+  ],
+  "PyGraph_Robust_Compiler_Support_for_CUDA_Graphs_in_PyTorch.pdf": [
+    "Abhishek Ghosh",
+    "Ajay Nayak",
+    "Ashish Panwar",
+    "Arkaprava Basu"
+  ],
+  "ALeRCE_light_curve_classifier_Tidal_disruption_event_expansion_pack.pdf": [
+    "M. Pavez-Herrera",
+    "P. Sánchez-Sáez",
+    "L. Hernández-García",
+    "F. E. Bauer",
+    "F. Förster",
+    "M. Catelan",
+    "A. Muñoz Arancibia",
+    "C. Ricci",
+    "I. Reyes-Jainaga",
+    "A. Bayo",
+    "P. Huijse",
+    "G. Cabrera-Vives"
+  ],
+  "Enhancing_Graphical_Lasso_A_Robust_Scheme_for_Non-Stationary_Mean_Data.pdf": [
+    "S. Rey",
+    "E. Curbelo",
+    "L. Martino",
+    "F. Llorente",
+    "A. G. Marques"
+  ],
+  "A_Low-Power_Sparse_Deep_Learning_Accelerator_with_Optimized_Data_Reuse.pdf": [
+    "Kai-Chieh Hsu",
+    "Tian-Sheuan Chang"
+  ],
+  "Burst_Image_Super-Resolution_with_Mamba.pdf": [
+    "Ozan Unal",
+    "Steven Marty",
+    "Dengxin Dai"
+  ],
+  "Exploring_Next_Token_Prediction_For_Optimizing_Databases.pdf": [
+    "Yeasir Rayhan",
+    "Walid G. Aref"
+  ],
+  "Learning_to_chain-of-thought_with_Jensen's_evidence_lower_bound.pdf": [
+    "Yunhao Tang",
+    "Sid Wang",
+    "R´emi Munos"
+  ],
+  "RL-finetuning_LLMs_from_on-_and_off-policy_data_with_a_single_algorithm.pdf": [
+    "Yunhao Tang",
+    "Taco Cohen",
+    "David W. Zhang",
+    "Michal Valko",
+    "R´emi Munos"
+  ],
+  "SACB-Net_Spatial-awareness_Convolutions_for_Medical_Image_Registration.pdf": [
+    "Xinxing Cheng",
+    "Tianyang Zhang",
+    "Wenqi Lu",
+    "Qingjie Meng",
+    "Alejandro F. Frangi",
+    "Jinming Duan"
+  ],
+  "Video_Anomaly_Detection_with_Contours_-_A_Study.pdf": [
+    "Mia Siemon",
+    "Ivan Nikolov",
+    "Thomas B. Moeslund",
+    "Kamal Nasrollahi"
+  ],
+  "Multi-agent_Application_System_in_Office_Collaboration_Scenarios.pdf": [
+    "Songtao Sun",
+    "Jingyi Li",
+    "Yuanfei Dong",
+    "Haoguang Liu",
+    "Chenxin Xu",
+    "Fuyang Li",
+    "Qiang Liu"
+  ],
+  "Post-Hoc_Calibrated_Anomaly_Detection.pdf": [
+    "Sean Gloumeau",
+    "Wolfgang Kunz",
+    "Marius Kloft"
+  ],
+  "SINR_Sparsity_Driven_Compressed_Implicit_Neural_Representations.pdf": [
+    "Dhananjaya Jayasundara",
+    "Sudarshan Rajagopalan",
+    "Yasiru Ranasinghe",
+    "Trac D. Tran",
+    "Vishal M. Patel"
+  ],
+  "Dance_Like_a_Chicken_Low-Rank_Stylization_for_Human_Motion_Diffusion.pdf": [
+    "Haim Sawdayee",
+    "Chuan Guo",
+    "Guy Tevet",
+    "Bing Zhou",
+    "Jian Wang",
+    "Amit H. Bermano"
+  ],
+  "Causal_Bayesian_Optimization_with_Unknown_Graphs.pdf": [
+    "Jean Durand",
+    "Yashas Annadani",
+    "Stefan Bauer",
+    "Sonali Parbhoo"
+  ],
+  "Improved_Alignment_of_Modalities_in_Large_Vision_Language_Models.pdf": [
+    "Kartik Jangra",
+    "Aman Kumar Singh",
+    "Yashwani Mann",
+    "Geetanjali Rathee"
+  ],
+  "VideoMage Multi-Subject and Motion Customization of Text-to-Video Diffusion Models.pdf": [
+    "Chi-Pin Huang",
+    "Yen-Siang Wu",
+    "Hung-Kai Chung",
+    "Kai-Po Chang",
+    "Fu-En Yang",
+    "Yu-Chiang Frank Wang"
+  ],
+  "X2-Gaussian 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction.pdf": [
+    "Weihao Yu",
+    "Yuanhao Cai",
+    "Ruyi Zha",
+    "Zhiwen Fan",
+    "Chenxin Li",
+    "Yixuan Yuan"
+  ],
+  "Test-Time Visual In-Context Tuning.pdf": [
+    "Jiahao Xie",
+    "Alessio Tonioni",
+    "Nathalie Rauschmayr",
+    "Federico Tombari",
+    "Bernt Schiele"
+  ],
+  "Video-R1 Reinforcing Video Reasoning in MLLMs.pdf": [
+    "Kaituo Feng",
+    "Kaixiong Gong",
+    "Bohao Li",
+    "Zonghao Guo",
+    "Yibing Wang",
+    "Tianshuo Peng",
+    "Benyou Wang",
+    "Xiangyu Yue"
+  ],
+  "StyleMotif Multi-Modal Motion Stylization using Style-Content Cross Fusion.pdf": [
+    "Ziyu Guo",
+    "Young Yoon Lee",
+    "Joseph Liu",
+    "Yizhak Ben-Shabat",
+    "Victor Zordan",
+    "Mubbasir Kapadia"
+  ],
+  "Uni4D Unifying Visual Foundation Models for 4D Modeling from a Single Video.pdf": [
+    "David Yifan Yao",
+    "Albert J. Zhai",
+    "Shenlong Wang"
+  ],
+  "Fwd2Bot LVLM Visual Token Compression with Double Forward Bottleneck.pdf": [
+    "Adrian Bulat",
+    "Yassine Ouali",
+    "Georgios Tzimiropoulos"
+  ],
+  "A Unified Framework for Diffusion Bridge Problems Flow Matching and Schrödinger Matching into One.pdf": [
+    "Minyoung Kim"
+  ],
+  "CTRL-O Language-Controllable Object-Centric Visual Representation Learning.pdf": [
+    "Aniket Didolkar",
+    "Andrii Zadaianchuk",
+    "Rabiul Awal",
+    "Maximilian Seitzer",
+    "Efstratios Gavves",
+    "Aishwarya Agrawal"
+  ],
+  "Structure and Melting of Fe MgO SiO2 and MgSiO3 in Planets Database Inversion and Phase Diagram.pdf": [
+    "Junjie Dong",
+    "Gabriel-Darius Mardaru",
+    "Paul D. Asimow",
+    "Lars P. Stixrude",
+    "Rebecca A. Fischer"
+  ],
+  "Effective Skill Unlearning through Intervention and Abstention.pdf": [
+    "Yongce Li",
+    "Chung-En Sun",
+    "Tsui-Wei Weng"
+  ],
+  "ReaRAG Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation.pdf": [
+    "Zhicheng Lee",
+    "Shulin Cao",
+    "Jinxin Liu",
+    "Jiajie Zhang",
+    "Weichuan Liu",
+    "Xiaoyin Che",
+    "Lei Hou",
+    "Juanzi Li"
+  ],
+  "Enhancing Underwater Navigation through Cross-Correlation-Aware Deep INSDVL Fusion.pdf": [
+    "Nadav Cohen",
+    "Itzik Klein"
+  ],
+  "Towards Intelligent Control of MeV Energy Electrons and Protons from kHz Repetition Rate Ultra-Intense Laser Plasma Interactions.pdf": [
+    "Nathaniel Tamminga",
+    "Scott Feister",
+    "Kyle D. Frische",
+    "Ronak Desai",
+    "Joseph Snyder",
+    "John J. Felice",
+    "Joseph R. Smith",
+    "Chris Orban",
+    "Enam A. Chowdhury",
+    "Michael L. Dexter",
+    "Anil K. Patnaik"
+  ],
+  "Energy Minimization for Participatory Federated Learning in IoT Analyzed via Game Theory.pdf": [
+    "Alessandro Buratto",
+    "Elia Guerra",
+    "Marco Miozzo",
+    "Paolo Dini",
+    "Leonardo Badia"
+  ],
+  "Collab Controlled Decoding using Mixture of Agents for LLM Alignment.pdf": [
+    "Souradip Chakraborty",
+    "Sujay Bhatt",
+    "Udari Madhushani Sehwag",
+    "Alec Koppel",
+    "Soumya Suvra Ghosal",
+    "Jiahao Qiu",
+    "Mengdi Wang",
+    "Dinesh Manocha",
+    "Furong Huang",
+    "Sumitra Ganesh"
+  ],
+  "Elementwise Layer Normalization.pdf": [
+    "Felix Stollenwerk"
+  ],
+  "Learning to Represent Individual Differences for Choice Decision Making.pdf": [
+    "Yan-Ying Chen",
+    "Yue Weng",
+    "Alexandre Filipowicz",
+    "Rumen Iliev",
+    "Francine Chen",
+    "Shabnam Hakimi",
+    "Yanxia Zhang",
+    "Matthew Lee",
+    "Kent Lyons",
+    "Charlene Wu"
+  ],
+  "Machine Learning Assisted Modeling of Amorphous TiO_2-Doped GeO_2 for Advanced LIGO Mirror Coatings.pdf": [
+    "Jun Jiang",
+    "Rui Zhang",
+    "Kiran Prasai",
+    "Riccardo Bassiri",
+    "James N. Fry",
+    "Martin M. Fejer",
+    "Hai-Ping Cheng"
+  ],
+  "Embodied-Reasoner Synergizing Visual Search Reasoning and Action for Embodied Interactive Tasks.pdf": [
+    "Wenqi Zhang",
+    "Mengna Wang",
+    "Gangao Liu",
+    "Xu Huixin",
+    "Yiwei Jiang",
+    "Yongliang Shen",
+    "Guiyang Hou",
+    "Zhe Zheng",
+    "Hang Zhang",
+    "Xin Li",
+    "Weiming Lu",
+    "Peng Li",
+    "Yueting Zhuang"
+  ],
+  "AMA-SAM Adversarial Multi-Domain Alignment of Segment Anything Model for High-Fidelity Histology Nuclei Segmentation.pdf": [
+    "Jiahe Qiana",
+    "Yaoyu Fanga",
+    "Jinkui Haoa",
+    "Bo Zhoua"
+  ],
+  "CMED A Child Micro-Expression Dataset.pdf": [
+    "Nikin Matharaarachchi",
+    "Muhammad Fermi Pasha",
+    "Sonya Coleman",
+    "Kah Peng Wong"
+  ],
+  "Exploiting synergies between JWST and cosmic 21-cm observations to uncover star formation in the early Universe.pdf": [
+    "Jiten Dhandha",
+    "Thomas Gessey-Jones",
+    "Harry T. J. Bevins",
+    "Simon Pochinda",
+    "Anastasia Fialkov",
+    "Sandro Tacchella",
+    "Eloy de Lera Acedo",
+    "Saurabh Singh",
+    "Rennan Barkana"
+  ],
+  "Molecular Quantum Transformer.pdf": [
+    "Yuichi Kamata",
+    "Quoc Hoan Tran",
+    "Yasuhiro Endo",
+    "Hirotaka Oshima"
+  ],
+  "LLM-Gomoku A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning.pdf": [],
+  "A Comprehensive Benchmark for RNA 3D Structure-Function Modeling.pdf": [
+    "Luis Wyss",
+    "Vincent Mallet",
+    "Wissam Karroucha",
+    "Karsten Borgwardt",
+    "Carlos Oliver"
+  ],
+  "A tale of two goals leveraging sequentiality in multi-goal scenarios.pdf": [
+    "Olivier Serris",
+    "Stéphane Doncieux",
+    "Olivier Sigaud"
+  ],
+  "How do language models learn facts Dynamics curricula and hallucinations.pdf": [
+    "Nicolas Zucchet",
+    "Jörg Bornschein",
+    "Stephanie Chan",
+    "Andrew Lampinen",
+    "Razvan Pascanu",
+    "Soham De"
+  ],
+  "Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base.pdf": [
+    "Satvik Verma",
+    "Qun Wang",
+    "E. Wes Bethel"
+  ],
+  "A friendly introduction to triangular transport.pdf": [
+    "Maximilian Ramgraber",
+    "Daniel Sharp",
+    "Mathieu Le Provost",
+    "Youssef Marzouk"
+  ],
+  "A Bespoke Design Approach to Low-Power Printed Microprocessors for Machine Learning Applications.pdf": [
+    "Panagiotis Chaidos",
+    "Giorgos Armeniakos",
+    "Sotirios Xydis",
+    "Dimitrios Soudris"
+  ],
+  "Cognitive Science-Inspired Evaluation of Core Capabilities for Object Understanding in AI.pdf": [
+    "Danaja Rutar",
+    "Alva Markelius",
+    "Konstantinos Voudouris",
+    "Jos´ e Hern´ andez-Orallo",
+    "Lucy Cheke"
+  ],
+  "Fracton and Non-Lorentzian Particle Duality Gauge Field Couplings and Geometric Implications.pdf": [
+    "M.M. Ahmadi-Jahmania",
+    "A. Parvizib"
+  ],
+  "Model Assembly Learning with Heterogeneous Layer Weight Merging.pdf": [
+    "Yi-Kai Zhang",
+    "Jin Wang",
+    "Xu-Xiang Zhong",
+    "De-Chuan Zhan",
+    "Han-Jia Ye"
+  ],
+  "Towards Fully Automated Decision-Making Systems for Greenhouse Control Challenges and Opportunities.pdf": [
+    "Yongshuai Liu",
+    "Taeyeong Choi",
+    "Xin Liu"
+  ],
+  "Locally minimax optimal and dimension-agnostic discrete argmin inference.pdf": [
+    "Ilmun Kim",
+    "Aaditya Ramdas"
+  ],
+  "Data-Driven Extreme Response Estimation.pdf": [
+    "Samuel J. Edwards",
+    "Michael D. Levine"
+  ],
+  "When Astronomy Meets AI Manazel For Crescent Visibility Prediction in Morocco.pdf": [
+    "Yassir Lairgi"
+  ],
+  "ClusterSC Advancing Synthetic Control with Donor Selection.pdf": [
+    "Saeyoung Rho",
+    "Andrew Tang",
+    "Noah Bergam",
+    "Rachel Cummings",
+    "Vishal Misra"
+  ],
+  "Provable Reduction in Communication Rounds for Non-Smooth Convex Federated Learning.pdf": [
+    "Karlo Palenzuela",
+    "Ali Dadras",
+    "Alp Yurtsever",
+    "Tommy Lofstedt"
+  ],
+  "The MVTec AD 2 Dataset Advanced Scenarios for Unsupervised Anomaly Detection.pdf": [
+    "Lars Heckler-Kram",
+    "Jan-Hendrik Neudeck",
+    "Ulla Scheler",
+    "Rebecca K ¨onig",
+    "Carsten Steger"
+  ],
+  "UI-R1 Enhancing Action Prediction of GUI Agents by Reinforcement Learning.pdf": [
+    "Zhengxi Lu",
+    "Yuxiang Chai",
+    "Yaxuan Guo",
+    "Xi Yin",
+    "Liang Liu",
+    "Hao Wang",
+    "Guanjing Xiong",
+    "Hongsheng Li"
+  ],
+  "Leveraging Language Models for Analyzing Longitudinal Experiential Data in Education.pdf": [
+    "Ahatsham Hayat",
+    "Bilal Khan",
+    "Mohammad Rashedul Hasan"
+  ],
+  "Audio-driven Gesture Generation via Deviation Feature in the Latent Space.pdf": [
+    "Jiahui Chen",
+    "Huan Yang",
+    "Runhua Shi",
+    "Chaofan Ding",
+    "Xiaoqi Mo",
+    "Siyu Xiong",
+    "Yinong He"
+  ],
+  "Nonlinear Multiple Response Regression and Learning of Latent Spaces.pdf": [
+    "Ye Tian",
+    "Sanyou Wu",
+    "Long Feng"
+  ],
+  "A Deep Reinforcement Learning-based Approach for Adaptive Handover Protocols.pdf": [
+    "Johannes V oigt",
+    "Peter J. Gu",
+    "Peter M. Rost"
+  ],
+  "Critical Iterative Denoising A Discrete Generative Model Applied to Graphs.pdf": [
+    "Yoann Boget",
+    "Alexandros Kalousis"
+  ],
+  "Dataset and Analysis of Long-Term Skill Acquisition in Robot-Assisted Minimally Invasive Surgery.pdf": [
+    "Yarden Sharon",
+    "Alex Geftler",
+    "Hanna Kossowsky Lev",
+    "Ilana Nisky"
+  ],
+  "Generalizable Implicit Neural Representations via Parameterized Latent Dynamics for Baroclinic Ocean Forecasting.pdf": [
+    "Guang Zhao",
+    "Xihaier Luo",
+    "Seungjun Lee",
+    "Yihui Ren",
+    "Shinjae Yoo",
+    "Luke Van Roekel",
+    "Balu Nadiga",
+    "Sri Hari Krishna Narayanan",
+    "Yixuan Sun",
+    "Wei Xu"
+  ],
+  "Probabilistic Functional Neural Networks.pdf": [
+    "Haixu Wang",
+    "Jiguo Cao"
+  ]
+}
